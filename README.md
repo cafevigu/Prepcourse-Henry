@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del mod2 del prepcourse de henry
+Carla Villarroel
+este proyecto es una prueba de como crear un clone de github
